@@ -1,0 +1,16 @@
+#name {background-color: Gray;
+}
+h1 {color : white}
+
+#q2 {width: 60%;
+text-align: center;
+padding-left: 50px;}
+
+#cssQ3 {column-count: 3;}
+img {width: 500px;}
+
+#historylists {color: gray;
+text-align: center;
+text-transform: lowercase;
+text-indent: 10px;
+background-color: yellow;}
